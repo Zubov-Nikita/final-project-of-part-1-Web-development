@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="083ad078-836f-4f28-a179-c02df9c44869" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bg_info.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bgp3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style_info.css" afterDir="false" />
-    </list>
+    <list default="true" id="083ad078-836f-4f28-a179-c02df9c44869" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +47,7 @@
       <workItem from="1642590434406" duration="64000" />
       <workItem from="1642590525043" duration="26000" />
       <workItem from="1642590570660" duration="216000" />
-      <workItem from="1642590818897" duration="77000" />
+      <workItem from="1642590818897" duration="212000" />
     </task>
     <servers />
   </component>
