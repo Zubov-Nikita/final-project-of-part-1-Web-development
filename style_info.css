@@ -1,0 +1,51 @@
+body{
+	background: url(bg_info.jpg) no-repeat;
+	background-size: 100%; 
+	
+
+}
+.buton{
+	width: 500px;      
+	height: 100px;
+	background: red;
+	font-size: 30px;
+	border-radius: 40px;
+	position: absolute;
+    top: 600px;
+    left: 200px;
+	
+}
+.buton2{
+	width: 500px;      
+	height: 100px;
+	background: red;
+	font-size: 30px;
+	border-radius: 40px;
+	position: absolute;
+    top: 600px;
+    left: 800px;
+	
+}
+.imgg{
+	width: 250px;      
+	height: 350px;
+}
+.table1{
+		
+	display: flex;
+	justify-content: center;
+	align-items: center;
+		
+}
+
+td {
+    border:1px solid black;
+	
+   }
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+p{
+	font-size: 30px;
+}
